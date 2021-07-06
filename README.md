@@ -1,4 +1,4 @@
-# Laboratorio-I-
+# Laboratorio -I-
 Trabajos prácticos correspondientes a la materia Laboratorio (I) de la tecnicatura en programación dicatada por la UNIVERSIDAD TECNOLOGICA NACIONAL (UTN)
 
 # Facultad
